@@ -1,3 +1,9 @@
+---
+layout: post
+title: "D435i 介绍"
+date:   2021-1-21 8:00:00 +0800
+---
+
 # D435i
 
 The **Intel® RealSense™ D435i** is a depth camera which includes a [Bosch BMI055](https://www.bosch-sensortec.com/bst/products/all_products/bmi055) 6-axis inertial sensor in addition to the depth camera which measures linear accelerations and angular velocities. Each IMU data packet is timestamped using the depth sensor hardware clock to allow temporal synchronization between gyro, accel and depth frames.

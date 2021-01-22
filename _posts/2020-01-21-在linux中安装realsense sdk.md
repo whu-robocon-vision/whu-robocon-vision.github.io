@@ -1,3 +1,9 @@
+---
+layout: post
+title: "在 linux 中安装 librealsense"
+date:   2021-1-21 8:00:00 +0800
+---
+
 # Linux Distribution
 
 #### Using pre-build packages

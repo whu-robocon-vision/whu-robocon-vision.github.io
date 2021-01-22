@@ -1,3 +1,9 @@
+---
+layout: post
+title: "librealsense 问题分析技巧"
+date:   2021-1-21 8:00:00 +0800
+---
+
 # Troubleshooting Tips and Tricks
 
 The following commands can be used to isolate and analyze issues:

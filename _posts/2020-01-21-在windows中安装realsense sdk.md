@@ -1,3 +1,9 @@
+---
+layout: post
+title: "在 Windows 中安装 librealsense"
+date:   2021-1-21 8:00:00 +0800
+---
+
 # Windows Distribution
 
 **Intel® RealSense™ SDK 2.0** provides tools and binaries for the Windows platform using [GitHub Releases](https://github.com/IntelRealSense/librealsense/releases)

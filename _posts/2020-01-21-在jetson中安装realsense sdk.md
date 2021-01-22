@@ -1,3 +1,9 @@
+---
+layout: post
+title: "在 jetson tx2 中安装 librealsense"
+date:   2021-1-21 8:00:00 +0800
+---
+
 # NVidia Jetson Devices
 
 **NOTE**: See [support-matrix.md](./support-matrix.md) to learn more about Jetson support for RealSense devices.

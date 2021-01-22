@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Introduction To OpenCV"
+date:   2021-1-22 8:00:00 +0800
+---
+
 # Introduction
 
 OpenCV (Open Source Computer Vision Library: [http://opencv.org](http://opencv.org/)) is an open-source BSD-licensed library that includes several hundreds of computer vision algorithms. The document describes the so-called OpenCV 2.x API, which is essentially a C++ API, as opposite to the C-based OpenCV 1.x API. The latter is described in opencv1x.pdf.
